@@ -1,0 +1,16 @@
+D:\my projects\C#\Qudrat Abduraximov\Uyga_Vazifa\Uyga_Vazifa\bin\Debug\net5.0\Uyga_Vazifa.exe
+D:\my projects\C#\Qudrat Abduraximov\Uyga_Vazifa\Uyga_Vazifa\bin\Debug\net5.0\Uyga_Vazifa.deps.json
+D:\my projects\C#\Qudrat Abduraximov\Uyga_Vazifa\Uyga_Vazifa\bin\Debug\net5.0\Uyga_Vazifa.runtimeconfig.json
+D:\my projects\C#\Qudrat Abduraximov\Uyga_Vazifa\Uyga_Vazifa\bin\Debug\net5.0\Uyga_Vazifa.runtimeconfig.dev.json
+D:\my projects\C#\Qudrat Abduraximov\Uyga_Vazifa\Uyga_Vazifa\bin\Debug\net5.0\Uyga_Vazifa.dll
+D:\my projects\C#\Qudrat Abduraximov\Uyga_Vazifa\Uyga_Vazifa\bin\Debug\net5.0\ref\Uyga_Vazifa.dll
+D:\my projects\C#\Qudrat Abduraximov\Uyga_Vazifa\Uyga_Vazifa\bin\Debug\net5.0\Uyga_Vazifa.pdb
+D:\my projects\C#\Qudrat Abduraximov\Uyga_Vazifa\Uyga_Vazifa\obj\Debug\net5.0\Uyga_Vazifa.csproj.AssemblyReference.cache
+D:\my projects\C#\Qudrat Abduraximov\Uyga_Vazifa\Uyga_Vazifa\obj\Debug\net5.0\Uyga_Vazifa.GeneratedMSBuildEditorConfig.editorconfig
+D:\my projects\C#\Qudrat Abduraximov\Uyga_Vazifa\Uyga_Vazifa\obj\Debug\net5.0\Uyga_Vazifa.AssemblyInfoInputs.cache
+D:\my projects\C#\Qudrat Abduraximov\Uyga_Vazifa\Uyga_Vazifa\obj\Debug\net5.0\Uyga_Vazifa.AssemblyInfo.cs
+D:\my projects\C#\Qudrat Abduraximov\Uyga_Vazifa\Uyga_Vazifa\obj\Debug\net5.0\Uyga_Vazifa.csproj.CoreCompileInputs.cache
+D:\my projects\C#\Qudrat Abduraximov\Uyga_Vazifa\Uyga_Vazifa\obj\Debug\net5.0\Uyga_Vazifa.dll
+D:\my projects\C#\Qudrat Abduraximov\Uyga_Vazifa\Uyga_Vazifa\obj\Debug\net5.0\ref\Uyga_Vazifa.dll
+D:\my projects\C#\Qudrat Abduraximov\Uyga_Vazifa\Uyga_Vazifa\obj\Debug\net5.0\Uyga_Vazifa.pdb
+D:\my projects\C#\Qudrat Abduraximov\Uyga_Vazifa\Uyga_Vazifa\obj\Debug\net5.0\Uyga_Vazifa.genruntimeconfig.cache
