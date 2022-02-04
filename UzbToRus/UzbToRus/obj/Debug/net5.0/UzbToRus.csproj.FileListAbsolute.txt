@@ -1,0 +1,16 @@
+D:\my projects\C#\UzbToRus\UzbToRus\bin\Debug\net5.0\UzbToRus.exe
+D:\my projects\C#\UzbToRus\UzbToRus\bin\Debug\net5.0\UzbToRus.deps.json
+D:\my projects\C#\UzbToRus\UzbToRus\bin\Debug\net5.0\UzbToRus.runtimeconfig.json
+D:\my projects\C#\UzbToRus\UzbToRus\bin\Debug\net5.0\UzbToRus.runtimeconfig.dev.json
+D:\my projects\C#\UzbToRus\UzbToRus\bin\Debug\net5.0\UzbToRus.dll
+D:\my projects\C#\UzbToRus\UzbToRus\bin\Debug\net5.0\ref\UzbToRus.dll
+D:\my projects\C#\UzbToRus\UzbToRus\bin\Debug\net5.0\UzbToRus.pdb
+D:\my projects\C#\UzbToRus\UzbToRus\obj\Debug\net5.0\UzbToRus.csproj.AssemblyReference.cache
+D:\my projects\C#\UzbToRus\UzbToRus\obj\Debug\net5.0\UzbToRus.GeneratedMSBuildEditorConfig.editorconfig
+D:\my projects\C#\UzbToRus\UzbToRus\obj\Debug\net5.0\UzbToRus.AssemblyInfoInputs.cache
+D:\my projects\C#\UzbToRus\UzbToRus\obj\Debug\net5.0\UzbToRus.AssemblyInfo.cs
+D:\my projects\C#\UzbToRus\UzbToRus\obj\Debug\net5.0\UzbToRus.csproj.CoreCompileInputs.cache
+D:\my projects\C#\UzbToRus\UzbToRus\obj\Debug\net5.0\UzbToRus.dll
+D:\my projects\C#\UzbToRus\UzbToRus\obj\Debug\net5.0\ref\UzbToRus.dll
+D:\my projects\C#\UzbToRus\UzbToRus\obj\Debug\net5.0\UzbToRus.pdb
+D:\my projects\C#\UzbToRus\UzbToRus\obj\Debug\net5.0\UzbToRus.genruntimeconfig.cache
