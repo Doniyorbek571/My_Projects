@@ -1,0 +1,32 @@
+D:\my projects\C#\MyWallet\MyWallet\bin\Debug\net5.0\MyWallet.exe
+D:\my projects\C#\MyWallet\MyWallet\bin\Debug\net5.0\MyWallet.deps.json
+D:\my projects\C#\MyWallet\MyWallet\bin\Debug\net5.0\MyWallet.runtimeconfig.json
+D:\my projects\C#\MyWallet\MyWallet\bin\Debug\net5.0\MyWallet.runtimeconfig.dev.json
+D:\my projects\C#\MyWallet\MyWallet\bin\Debug\net5.0\MyWallet.dll
+D:\my projects\C#\MyWallet\MyWallet\bin\Debug\net5.0\ref\MyWallet.dll
+D:\my projects\C#\MyWallet\MyWallet\bin\Debug\net5.0\MyWallet.pdb
+D:\my projects\C#\MyWallet\MyWallet\obj\Debug\net5.0\MyWallet.csproj.AssemblyReference.cache
+D:\my projects\C#\MyWallet\MyWallet\obj\Debug\net5.0\MyWallet.GeneratedMSBuildEditorConfig.editorconfig
+D:\my projects\C#\MyWallet\MyWallet\obj\Debug\net5.0\MyWallet.AssemblyInfoInputs.cache
+D:\my projects\C#\MyWallet\MyWallet\obj\Debug\net5.0\MyWallet.AssemblyInfo.cs
+D:\my projects\C#\MyWallet\MyWallet\obj\Debug\net5.0\MyWallet.csproj.CoreCompileInputs.cache
+D:\my projects\C#\MyWallet\MyWallet\obj\Debug\net5.0\MyWallet.dll
+D:\my projects\C#\MyWallet\MyWallet\obj\Debug\net5.0\ref\MyWallet.dll
+D:\my projects\C#\MyWallet\MyWallet\obj\Debug\net5.0\MyWallet.pdb
+D:\my projects\C#\MyWallet\MyWallet\obj\Debug\net5.0\MyWallet.genruntimeconfig.cache
+D:\Programming\C#\MyWallet\MyWallet\bin\Debug\net5.0\MyWallet.exe
+D:\Programming\C#\MyWallet\MyWallet\bin\Debug\net5.0\MyWallet.deps.json
+D:\Programming\C#\MyWallet\MyWallet\bin\Debug\net5.0\MyWallet.runtimeconfig.json
+D:\Programming\C#\MyWallet\MyWallet\bin\Debug\net5.0\MyWallet.runtimeconfig.dev.json
+D:\Programming\C#\MyWallet\MyWallet\bin\Debug\net5.0\MyWallet.dll
+D:\Programming\C#\MyWallet\MyWallet\bin\Debug\net5.0\ref\MyWallet.dll
+D:\Programming\C#\MyWallet\MyWallet\bin\Debug\net5.0\MyWallet.pdb
+D:\Programming\C#\MyWallet\MyWallet\obj\Debug\net5.0\MyWallet.csproj.AssemblyReference.cache
+D:\Programming\C#\MyWallet\MyWallet\obj\Debug\net5.0\MyWallet.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\C#\MyWallet\MyWallet\obj\Debug\net5.0\MyWallet.AssemblyInfoInputs.cache
+D:\Programming\C#\MyWallet\MyWallet\obj\Debug\net5.0\MyWallet.AssemblyInfo.cs
+D:\Programming\C#\MyWallet\MyWallet\obj\Debug\net5.0\MyWallet.csproj.CoreCompileInputs.cache
+D:\Programming\C#\MyWallet\MyWallet\obj\Debug\net5.0\MyWallet.dll
+D:\Programming\C#\MyWallet\MyWallet\obj\Debug\net5.0\ref\MyWallet.dll
+D:\Programming\C#\MyWallet\MyWallet\obj\Debug\net5.0\MyWallet.pdb
+D:\Programming\C#\MyWallet\MyWallet\obj\Debug\net5.0\MyWallet.genruntimeconfig.cache
